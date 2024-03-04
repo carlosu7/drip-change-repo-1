@@ -1,0 +1,9 @@
+
+\
+java:S1192R"FDefine a constant instead of duplicating this literal "files" 3 times.(ï¹¦
+d
+java:S1192S"NDefine a constant instead of duplicating this literal "uploadSuccess" 3 times.(ã„¦ì
+U	java:S899k";Do something with the "boolean" value returned by "delete".(ŠĞÆüÿÿÿÿ
+i
+java:S4042k"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ŠĞÆüÿÿÿÿ
+L	java:S106"+Replace this use of System.out by a logger.(ü°¸¢øÿÿÿÿ8‹ÛÁ×à1
